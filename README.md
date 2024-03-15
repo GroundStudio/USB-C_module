@@ -1,6 +1,6 @@
-GroundStudio BME280 module
+GroundStudio USB-C module
 ====================================
-![BMx280 module REV1 0 0](https://github.com/GroundStudio/BME280_module/assets/77836107/7f3e8770-f32f-47ed-beae-876826c8bed9)
+![USB-C module REV1](https://github.com/GroundStudio/USB-C_module/assets/77836107/dbd40920-98bc-4e51-8080-a8eec05d4810)
 
 Get it from [ardushop.ro](https://ardushop.ro/ro/118-groundstudio)
 
@@ -8,18 +8,18 @@ Explore all the GroundStudio products at [GroundStudio.ro](https://groundstudio.
 
 Description
 -------------------
-The module integrates the BME280 humidity, temperature and atmospheric pressure sensor that uses the I²C and SPI standards for communication so it can be easily used together with most existing development boards.
+With this module you can finally incorporate a USB-C connector in your projects without having to solder each SMD pad.
 
 Contents
 -------------------
 
-* [/Hardware](https://github.com/GroundStudio/BME280_module/tree/main/Hardware) -- Schematics, layout.
+* [/Hardware](https://github.com/GroundStudio/USB-C_module/tree/main/Hardware) -- Schematics, layout.
 
 Versions
 -------------------
 *(Not all tags shown)*
 
-- [REV 1.0.0]
+- [REV 1]
 
 License
 -------------------
