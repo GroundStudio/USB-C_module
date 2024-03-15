@@ -2,7 +2,7 @@ GroundStudio USB-C module
 ====================================
 ![USB-C module REV1](https://github.com/GroundStudio/USB-C_module/assets/77836107/dbd40920-98bc-4e51-8080-a8eec05d4810)
 
-Get it from [ardushop.ro](https://ardushop.ro/ro/118-groundstudio)
+Get it from [ardushop.ro](https://ardushop.ro/ro/home/1850-modul-usb-c-groundstudio.html)
 
 Explore all the GroundStudio products at [GroundStudio.ro](https://groundstudio.ro/)
 
